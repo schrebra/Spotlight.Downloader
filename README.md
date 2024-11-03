@@ -1,8 +1,8 @@
 
-# Windows 10 Spotlight Image Downloader Script
+# Spotlight Image Downloader
 
 ## Overview
-This PowerShell script downloads Windows 10 Spotlight images from windows10spotlight.com. It can download images in bulk while managing duplicates and updates.
+This PowerShell script downloads Spotlight images from windows10spotlight.com. It can download images in bulk while managing duplicates and updates.
 
 ## Key Features
 - Downloads high-resolution Windows 10 Spotlight images
