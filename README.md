@@ -1,4 +1,3 @@
-# Spotlight.Downloader
 
 # Windows 10 Spotlight Image Downloader Script
 
